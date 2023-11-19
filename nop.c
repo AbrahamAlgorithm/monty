@@ -2,7 +2,7 @@
 
 /**
  * nop -  does nothing
- * @stack: doesnt matter
+ * @stack: doesn't matter
  * @line_cnt : for nothing
  *
  * Return: NOTHING
