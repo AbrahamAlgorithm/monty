@@ -6,7 +6,7 @@
 
 /**
  * _add -  adds the first two nodes of the stack
- * @stack: stack given by main
+ * @stack: stack given by the main
  * @line_cnt: line counter
  *
  * Return: void
